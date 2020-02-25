@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.basics.springin5steps;
+package com.in28minutes.string.basics.springin5steps;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

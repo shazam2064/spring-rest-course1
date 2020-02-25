@@ -8,7 +8,7 @@
 		<version>2.2.5.BUILD-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.in28minutes.springboot.basics</groupId>
+	<groupId>com.in28minutes.string.basics</groupId>
 	<artifactId>spring-in-5-steps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-in-5-steps</name>
